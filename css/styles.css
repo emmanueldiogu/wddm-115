@@ -1,12 +1,14 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(147, 255, 246);
     text-align: center;
 }
 h1 {
-    font-size: 44px;
+    font-size: 64px;
+    color: brown;
+    font-family: 'Oswald', sans-serif;
 }
 h1:hover {
-    color: red;
+    color: rgb(244, 136, 22);
     cursor: pointer;
 }
 
@@ -14,3 +16,5 @@ h1:hover {
     position: relative;
 }
 
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;600&display=swap');
