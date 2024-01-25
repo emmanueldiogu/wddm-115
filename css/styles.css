@@ -18,3 +18,12 @@ h1:hover {
 
 
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;600&display=swap');
+
+.socials {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    padding-top: 30px;
+}
